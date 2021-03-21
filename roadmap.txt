@@ -1,0 +1,24 @@
+Character
+  Non-mechanical stats: Name, description, background, alignment
+  "Stat bar": strength, dexterity, constitution, intelligence, wisdom, charisma
+  Race: elf, dwarf, human, etc.
+  Feats
+  Character Class: rogue, fighter, barbarian, etc.
+    Equipment
+    Proficiencies
+    Spells
+
+  starting point: generate a character with a 3d6 bell curve (or stat buy) stat bar, random race, random class
+  
+  API endpoints: 
+
+  https://www.dnd5eapi.co/api/ability-scores - 
+  generate HTML form, show description of abilities on hover
+
+
+  drop-down character class selection list (generate from API)
+
+  for selection list: https://www.dnd5eapi.co/api/classes
+
+  drop-down race selection list
+
